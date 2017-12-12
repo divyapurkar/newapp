@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": " test",
    "update_url": "https://github.com/divyapurkar/newapp/blob/master/updates.xml",
-  "version": "5.0",
+  "version": "4.0",
    "description": "Vtest",
   "icons": {"128":"chrome-icon.png","16":"chrome-icon16.png"},
   "app": {
