@@ -2,9 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+
 chrome.app.runtime.onLaunched.addListener(function() {
 	
-    
+  
    /*chrome.system.display.getInfo(function display(disp){
        
        var upperY=disp[0].bounds.top>disp[1].bounds.top?disp[0].bounds.top:disp[1].bounds.top;
@@ -20,6 +21,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
             width: 1200,
             height: 1080
             },function(win) {
+  
               //init();
                // win.fullscreen();
             }
